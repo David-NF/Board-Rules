@@ -42,5 +42,5 @@ $lang = array_merge($lang, array(
 	'BOARDRULES_TITLE'			=> 'Bekijk de regels van dit forum',
 	'BOARDRULES_AGREEMENT'		=> 'Je stemt in met de regels die door het forumbeheer zijn samengesteld.',
 	'BOARDRULES_VIEWONLINE'		=> 'Bekijkt forum regels',
-	'BOARDRULES_NOTIFICATION'	=> 'De forum regels zijn succesvol bijgewerkt. Klik hier om ze te bekijken.',
+	'BOARDRULES_NOTIFICATION'	=> 'Er zijn veranderingen gedaan aan de forum regels. Klik hier om de forum regels te bekijken.',
 ));

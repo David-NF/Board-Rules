@@ -39,30 +39,30 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	// ACP general langauge
-	'ACP_BOARDRULES'					=> 'Board rules',
-	'ACP_BOARDRULES_MANAGE'				=> 'Manage rules',
+	'ACP_BOARDRULES'					=> 'Forum regels',
+	'ACP_BOARDRULES_MANAGE'				=> 'Bewerkt regels',
 	'ACP_BOARDRULES_MANAGE_EXPLAIN'		=> 'From this page you can add, edit, delete and re-order categories and rules. A category is a group of related rules. Each category can have an unlimited number of rules.',
-	'ACP_BOARDRULES_SETTINGS'			=> 'Rules settings',
-	'ACP_BOARDRULES_SETTINGS_EXPLAIN'	=> 'Here you can configure the main settings for board rules.',
+	'ACP_BOARDRULES_SETTINGS'			=> 'Instellingen regels',
+	'ACP_BOARDRULES_SETTINGS_EXPLAIN'	=> 'Hier kan je de instellingen van de forum regels configureren.',
 
 	// ACP rule settings form language
-	'ACP_BOARDRULES_CATEGORY'				=> 'Rule category',
-	'ACP_BOARDRULES_ENABLE'					=> 'Enable board rules',
-	'ACP_BOARDRULES_HEADER_LINK'			=> 'Display board rules link in the header',
-	'ACP_BOARDRULES_AT_REGISTRATION'		=> 'Require new users to accept rules at registration',
-	'ACP_BOARDRULES_AT_REGISTRATION_EXPLAIN'=> 'This option will add a clause to the “Terms of Agreement” requiring newly registering users to read and accept the board rules at registration.',
-	'ACP_BOARDRULES_RULE'					=> 'Rule',
-	'ACP_BOARDRULES_SELECT_LANGUAGE'		=> 'Select language',
+	'ACP_BOARDRULES_CATEGORY'				=> 'Regel categorie',
+	'ACP_BOARDRULES_ENABLE'					=> 'Forum regels inschakelen',
+	'ACP_BOARDRULES_HEADER_LINK'			=> 'Plaats een link naar de regels in de header',
+	'ACP_BOARDRULES_AT_REGISTRATION'		=> 'Verplicht nieuwe gebruikers de regels te accepteren bij registratie',
+	'ACP_BOARDRULES_AT_REGISTRATION_EXPLAIN'=> 'Deze optie voegt een regel toe aan de “voorwaarden” verplicht nieuw gerigistreerde gebruikers de forum regels te lezen en te accepteren.',
+	'ACP_BOARDRULES_RULE'					=> 'Regel',
+	'ACP_BOARDRULES_SELECT_LANGUAGE'		=> 'Selecteer taal',
 	'ACP_BOARDRULES_SETTINGS_CHANGED'		=> 'Board rules settings changed.',
-	'ACP_BOARDRULES_NOTIFY'					=> 'Notify users',
+	'ACP_BOARDRULES_NOTIFY'					=> 'Notificeer gebruiker',
 	'ACP_BOARDRULES_NOTIFY_EXPLAIN'			=> 'Send a notification to all registered users that the board rules have been updated. (This may take several seconds to complete on boards with many thousands of members.)',
 	'ACP_BOARDRULES_NOTIFY_CONFIRM'			=> 'Are you sure you wish to send notifications to all users?',
 	'ACP_BOARDRULES_NOTIFY_LOG'				=> '<strong>Board Rules notification sent to all users</strong>',
 
 	// ACP rule add/edit form language
-	'ACP_BOARDRULES_CREATE_RULE'			=> 'Create rule',
+	'ACP_BOARDRULES_CREATE_RULE'			=> 'Creeër regel',
 	'ACP_BOARDRULES_CREATE_RULE_EXPLAIN'	=> 'Using the form below you can create a new rule which will be displayed to your users.',
-	'ACP_BOARDRULES_EDIT_RULE'				=> 'Edit rule',
+	'ACP_BOARDRULES_EDIT_RULE'				=> 'Wijzig regel',
 	'ACP_BOARDRULES_EDIT_RULE_EXPLAIN'		=> 'Using the form below you can update an existing rule which will be displayed to your users.',
 	'ACP_RULE_SETTINGS'						=> 'Rule settings',
 	'ACP_RULE_TITLE'						=> 'Rule title',
@@ -73,10 +73,10 @@ $lang = array_merge($lang, array(
 	'ACP_RULE_MESSAGE_EXPLAIN'				=> 'The rule message is displayed on the rules page for each rule (categories do not display a rule message).',
 
 	// ACP rule management language
-	'ACP_ADD_RULE'				=> 'Create new rule',
-	'ACP_DELETE_RULE_CONFIRM'	=> 'Are you sure you want to remove this rule?',
-	'ACP_RULE_ADDED'			=> 'Rule successfully added.',
-	'ACP_RULE_DELETED'			=> 'Rule successfully removed.',
-	'ACP_RULE_EDITED'			=> 'Rule successfully edited.',
+	'ACP_ADD_RULE'				=> 'Creeër nieuwe regel',
+	'ACP_DELETE_RULE_CONFIRM'	=> 'Weet je zeker dat je deze regel wilt verwijderen?',
+	'ACP_RULE_ADDED'			=> 'Regel succesvol toegevoegd.',
+	'ACP_RULE_DELETED'			=> 'Regel succesvol verwijderd.',
+	'ACP_RULE_EDITED'			=> 'Regel succesvol gewijzigd.',
 	'ACP_RULE_TITLE_EMPTY'		=> 'You must enter a title for this rule.',
 ));

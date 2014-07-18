@@ -39,7 +39,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'BOARDRULES_HEADER'			=> 'Forum regels',
-	'BOARDRULES_EXPLAIN'		=> 'Onderstaande regels zijn samengesteld door de forumbeheerders, de regels gelden voor iedereen die gebruik maakt van dit forum. Het is de bedoeling dat iedereen deze regels naleeft, beheerders en moderators zullen dit ook in de gaten houden en je waarnodig wijzen op één of meerdere regels. Het gebruik van dit forum moet voor iedereen een positieve ervaring zijn.',
+	'BOARDRULES_EXPLAIN'		=> 'Onderstaande regels zijn samengesteld door de forumbeheerders, de regels gelden voor iedereen die gebruik maakt van dit forum. Het is de bedoeling dat iedereen deze regels naleeft, beheerders en moderators zullen dit ook in de gaten houden en je waarnodig wijzen op één of meerdere regels.',
 	'BOARDRULES_CATEGORIES'		=> 'Categorieën ',
 	'BOARDRULES_CATEGORY_ANCHOR'=> 'categorie-%s',
 	'BOARDRULES_RULE_ANCHOR'	=> 'regel-%s',

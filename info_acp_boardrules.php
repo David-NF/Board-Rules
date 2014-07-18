@@ -56,7 +56,7 @@ $lang = array_merge($lang, array(
 	'ACP_BOARDRULES_SETTINGS_CHANGED'		=> 'Forum regels instellingen succesvol bijgewerk.',
 	'ACP_BOARDRULES_NOTIFY'					=> 'Notificeer gebruiker',
 	'ACP_BOARDRULES_NOTIFY_EXPLAIN'			=> 'Stuur een notificatie naar alle geregistreerde gebruikers dat de forum regels zijn aangepast (Dit kan enkele seconden duren op een forum met duizende gebruikers.)',
-	'ACP_BOARDRULES_NOTIFY_CONFIRM'			=> 'Weet je zeker dat je een notificatie wilt verzenden naar alle geregistreerde gebruikers?',
+	'ACP_BOARDRULES_NOTIFY_CONFIRM'			=> 'Weet je zeker dat je een notificatie wilt versturen naar alle geregistreerde gebruikers?',
 	'ACP_BOARDRULES_NOTIFY_LOG'				=> '<strong>Notificatie succesvol verstuurd</strong>',
 
 	// ACP rule add/edit form language

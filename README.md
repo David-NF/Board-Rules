@@ -8,3 +8,7 @@ Upload de vertaalde bestanden naar root/ext/phpbb/boardrules/language/nl
 Let op: Je moet zelf de map nl aanmaken, deze is standaard niet aanwezig
 
 Als je een schrijf en/of spellingsfout vind dan kan je deze melden via: https://github.com/David-NF/Board-Rules/issues Ook op/of aanmerkingen voor verbeteringen zijn welkom. 
+
+Je kunt de ontwikkeling van de extensie zelf volgen via: https://www.phpbb.com/community/viewtopic.php?f=456&t=2208976
+
+De extensie is op dit moment nog niet helemaal vertaald!

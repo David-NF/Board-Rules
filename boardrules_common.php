@@ -40,7 +40,7 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'BOARDRULES'				=> 'Regels',
 	'BOARDRULES_TITLE'			=> 'Bekijk de regels van dit forum',
-	'BOARDRULES_AGREEMENT'		=> 'You agree to abide by the rules of these forums set forth in the following “Rules” section',
+	'BOARDRULES_AGREEMENT'		=> 'Je stemt in met de regels die door het forumbeheer zijn samengesteld.',
 	'BOARDRULES_VIEWONLINE'		=> 'Bekijkt forum regels',
-	'BOARDRULES_NOTIFICATION'	=> 'The Board Rules have been updated. Click here to review them.',
+	'BOARDRULES_NOTIFICATION'	=> 'De forum regels zijn succesvol bijgewerkt. Klik hier om ze te bekijken.',
 ));

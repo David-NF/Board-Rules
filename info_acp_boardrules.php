@@ -41,14 +41,14 @@ $lang = array_merge($lang, array(
 	// ACP general langauge
 	'ACP_BOARDRULES'					=> 'Forum regels',
 	'ACP_BOARDRULES_MANAGE'				=> 'Bewerk forum regels',
-	'ACP_BOARDRULES_MANAGE_EXPLAIN'		=> 'From this page you can add, edit, delete and re-order categories and rules. A category is a group of related rules. Each category can have an unlimited number of rules.',
+	'ACP_BOARDRULES_MANAGE_EXPLAIN'		=> 'Vanaf deze pagina kan je forum regels toevoegen, wijzigen, verwijderen en ook categoriën en regels rangschrikken. Een categorie is een samenstelling van regels, elke categroie kan een onbeperkt aantal regels bevatten',
 	'ACP_BOARDRULES_SETTINGS'			=> 'Instellingen forum regels',
-	'ACP_BOARDRULES_SETTINGS_EXPLAIN'	=> 'Hier kan je de instellingen van de forum regels configureren.',
+	'ACP_BOARDRULES_SETTINGS_EXPLAIN'	=> 'Hier kan je de instellingen van de forum regels aanpassen.',
 
 	// ACP rule settings form language
 	'ACP_BOARDRULES_CATEGORY'				=> 'Regel categorie',
 	'ACP_BOARDRULES_ENABLE'					=> 'Forum regels inschakelen',
-	'ACP_BOARDRULES_HEADER_LINK'			=> 'Plaats een link naar de regels in de header',
+	'ACP_BOARDRULES_HEADER_LINK'			=> 'Plaats een link naar de forum regels in de header',
 	'ACP_BOARDRULES_AT_REGISTRATION'		=> 'Verplicht nieuwe gebruikers de regels te accepteren bij registratie',
 	'ACP_BOARDRULES_AT_REGISTRATION_EXPLAIN'=> 'Deze optie voegt een regel toe aan de “voorwaarden” verplicht nieuw gerigistreerde gebruikers de forum regels te lezen en te accepteren.',
 	'ACP_BOARDRULES_RULE'					=> 'Regel',
@@ -61,9 +61,9 @@ $lang = array_merge($lang, array(
 
 	// ACP rule add/edit form language
 	'ACP_BOARDRULES_CREATE_RULE'			=> 'Creeër regel',
-	'ACP_BOARDRULES_CREATE_RULE_EXPLAIN'	=> 'Using the form below you can create a new rule which will be displayed to your users.',
+	'ACP_BOARDRULES_CREATE_RULE_EXPLAIN'	=> 'Het formulier hieronder staat je toe om en nieuwe regel toe te voegen.',
 	'ACP_BOARDRULES_EDIT_RULE'				=> 'Wijzig regel',
-	'ACP_BOARDRULES_EDIT_RULE_EXPLAIN'		=> 'Using the form below you can update an existing rule which will be displayed to your users.',
+	'ACP_BOARDRULES_EDIT_RULE_EXPLAIN'		=> 'Het formulier hieronder staat je toe om een bestaande regel te wijzigen.',
 	'ACP_RULE_SETTINGS'						=> 'Rule settings',
 	'ACP_RULE_TITLE'						=> 'Rule title',
 	'ACP_RULE_TITLE_EXPLAIN'				=> 'Rule titles are displayed on the rules page for rule categories only. Rule titles are also used to identify your rules when managing them in the ACP.',

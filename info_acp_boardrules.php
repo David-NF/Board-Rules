@@ -69,8 +69,8 @@ $lang = array_merge($lang, array(
 	'ACP_RULE_TITLE_EXPLAIN'				=> 'Alleen de titels van categorieën worden weergegeven op de regel pagina. De titels voor regels zijn een identificatie tijdens het bewerken van de regels in het beheerderspaneel.',
 	'ACP_RULE_ANCHOR'						=> 'Rule anchor',
 	'ACP_RULE_ANCHOR_EXPLAIN'				=> 'Rule anchors are optional and are used as link anchor points on the rules page. Ze zouden URL vriendelijk moeten zijn (zonder spaties of speciale tekens) en moeten beginnen met een letter.',
-	'ACP_RULE_MESSAGE'						=> 'Rule message',
-	'ACP_RULE_MESSAGE_EXPLAIN'				=> 'The rule message is displayed on the rules page for each rule (categories do not display a rule message).',
+	'ACP_RULE_MESSAGE'						=> 'Tekstvak',
+	'ACP_RULE_MESSAGE_EXPLAIN'				=> 'In het tekstvak kun je de regel samenstellen die getoond zal worden op de regel pagina (bij categorieën wordt deze tekst niet getoond).',
 
 	// ACP rule management language
 	'ACP_ADD_RULE'				=> 'Creeër nieuwe regel',

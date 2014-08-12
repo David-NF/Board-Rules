@@ -48,10 +48,10 @@ if (empty($lang) || !is_array($lang))
 * Translators: Feel free to not translate these language strings
 */
 $lang = array_merge($lang, array(
-	'EXCEPTION_FIELD_MISSING'		=> 'Required field missing',
-	'EXCEPTION_INVALID_ARGUMENT'	=> 'Invalid argument specified for `%1$s`. Reason: %2$s',
-	'EXCEPTION_OUT_OF_BOUNDS'		=> 'The field `%1$s` received data beyond its bounds',
-	'EXCEPTION_TOO_LONG'			=> 'The input was longer than the maximum length.',
-	'EXCEPTION_UNEXPECTED_VALUE'	=> 'The field `%1$s` received unexpected data. Reason: %2$s',
-	'EXCEPTION_ILLEGAL_CHARACTERS'	=> 'The input contained illegal characters.',
+	'EXCEPTION_FIELD_MISSING'		=> 'Vereist veld mist',
+	'EXCEPTION_INVALID_ARGUMENT'	=> 'Ongeldig argument gespecificeerd voor `%1$s`. Reden: %2$s',
+	'EXCEPTION_OUT_OF_BOUNDS'		=> 'Het veld `%1$s` ontvangt data wat buiten zijn bereik ligt',
+	'EXCEPTION_TOO_LONG'			=> 'De invoer was langer dan de maximum lengte.',
+	'EXCEPTION_UNEXPECTED_VALUE'	=> 'Het veld `%1$s` ontvangt onverwachte data. Reden: %2$s',
+	'EXCEPTION_ILLEGAL_CHARACTERS'	=> 'De invoer bevat ongeldige tekens.',
 ));

@@ -16,6 +16,6 @@ Upload de map "nl" naar root/ext/phpbb/boardrules/language/
 Project verplaatst naar:
 ===========
 
-Een paar dagen geleden besloten om samen met Rotsblok (http://www.phpservice.nl) aan de extensie vertalingen te werken. Dit vertalingsproject wordt daarom verplaatst en voortgezet via: https://github.com/dutch-translators/Board-Rules
+Een paar dagen geleden besloten om samen met Rotsblok (http://www.phpbbservice.nl) aan de extensie vertalingen te werken. Dit vertalingsproject wordt daarom verplaatst en voortgezet via: https://github.com/dutch-translators/Board-Rules
 
 Je kunt daar ook de meest recente vertaling vinden voor de meest recente versie ;)
